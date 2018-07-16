@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/7/16 15:30
 # @Author  : xiedan
-# @File    : round_square.py
+# @File    : log_reg.py
 # 逻辑回归模型
 from sklearn.linear_model import LogisticRegression
 import pandas as pd
